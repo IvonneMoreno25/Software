@@ -7,9 +7,9 @@ package ejerciciogit;
 
 /**
  *
- * @author jhon jairo pineda
+ * @author Ivonne Moreno
  */
-public class EquipoAtletismo
+public class EquipoAtletismo extends Equipo implements CompetenciasVariadas
 {
     
 }

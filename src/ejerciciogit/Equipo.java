@@ -7,9 +7,9 @@ package ejerciciogit;
 
 /**
  *
- * @author jhon jairo pineda
+ * @author Ivonne Moreno
  */
-public class Equipo
+public abstract class Equipo
 {
     
 }

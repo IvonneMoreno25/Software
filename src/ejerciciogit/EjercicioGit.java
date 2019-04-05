@@ -7,17 +7,13 @@ package ejerciciogit;
 
 /**
  *
- * @author jhon jairo pineda
+ * @author Ivonne Moreno
  */
 public class EjercicioGit
 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args)
     {
-        // TODO code application logic here
+       
     }
-    
 }
